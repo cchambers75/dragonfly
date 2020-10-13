@@ -1,0 +1,22 @@
+.content-home {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.content-home-child {
+    flex: 1;
+    width: 50%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.title {
+    font-family: 'Pacifico', cursive;
+    margin-top: 5%;
+    text-align: center;
+}
+
+hr {
+    width: 80%;
+}
